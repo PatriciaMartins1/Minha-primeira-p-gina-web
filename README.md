@@ -1,2 +1,2 @@
-# Minha-primeira-p-gina-web
+# Minha-primeira-pagina-web
 Página desenvolvida durante o curso na programaria
